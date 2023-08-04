@@ -1,0 +1,8 @@
+steps to use git on a project
+
+1. Initialize git on the project
+2. Stage/add changes
+
+git add .
+
+git add `filename` 
